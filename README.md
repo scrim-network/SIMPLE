@@ -3,11 +3,10 @@ A semi-empirical model of sea-level contributions from the Greenland Ice Sheet i
 
 ## Citation
 
-This code is intended to accompany the results of [(link to paper)](http://www.sciencedirect.com/science/article/pii/S1364815216301347):
+This code is intended to accompany the results of:
 
-    Bakker, A., P. Applegate, and K. Keller: A semi-empirical model of sea-level contributions from the 
-    Greenland Ice Sheet in response to temperature changes. Environmental Modeling and Software (2016) 
-    83, 27-35, doi: 10.1016/j.envsoft.2016.05.003.
+'''Bakker, A., P. Applegate, and K. Keller: A semi-empirical model of sea-level contributions from the Greenland Ice Sheet in response to temperature changes. Environmental Modeling and Software (2016) 83, 27-35, doi: 10.1016/j.envsoft.2016.05.003. [(link to paper)](http://www.sciencedirect.com/science/article/pii/S1364815216301347)
+'''
 
 ## SICOPOLIS data
 SICOPOLOS data were made available by Patrick J. Applegate and were derived for:
@@ -25,7 +24,7 @@ SICOPOLOS data were made available by Patrick J. Applegate and were derived for:
     DOI: 10.1007/s00382-014-2451-7
 
 ## Other data, figures and scripts
-Other datafiles and figures are created by the R-scripts.
-main.R executes all scripts in the right order
+Other datafiles and figures are created by the R-scripts.  
+**_main.R_** executes all scripts in the right order
 
-Figures may look slightly different than in paper as a result of an R-update
+*Figures may look slightly different than in paper as a result of an R-update*
