@@ -33,3 +33,6 @@ Other datafiles and figures are created by the R-scripts.
 **_main.R_** executes all scripts in the right order
 
 *Figures may look slightly different than in paper as a result of an R-update*
+
+## Contact
+Alexander Bakker _bakker@psu.edu_
