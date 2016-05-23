@@ -3,7 +3,7 @@ A semi-empirical model of sea-level contributions from the Greenland Ice Sheet i
 
 ## Citation
 
-This code is intended to accompany the results of [Link to paper](http://www.sciencedirect.com/science/article/pii/S1364815216301347):
+This code is intended to accompany the results of [(link to paper)](http://www.sciencedirect.com/science/article/pii/S1364815216301347):
 
     Bakker, A., P. Applegate, and K. Keller: A semi-empirical model of sea-level contributions from the 
     Greenland Ice Sheet in response to temperature changes. Environmental Modeling and Software (2016) 
